@@ -11,7 +11,7 @@ I'm new to programming, so words like "numpy, pandas, geopandas, nltk, beautiful
 
 * What questions do you have about the syllabus?
 
-No questoions yet.
+Are work and readings due the day announced on syllabus or the week after? E.g. Is HW #2 due Feb 22 or Mar 1? And is it the same for readings? Would the TCS chapers on that day be due for Feb 22's class or the week after?
 
 * What stories do you want to tell?
 
