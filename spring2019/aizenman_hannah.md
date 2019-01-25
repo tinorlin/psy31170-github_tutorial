@@ -1,4 +1,10 @@
 # Hannah Aizenman
+## haizenman@ccny.cuny.edu
+
+| Building | Room |
+|-----| ----|
+| NAC | 7311|
+
 
 * Why this class?
 
