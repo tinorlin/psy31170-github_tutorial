@@ -12,7 +12,7 @@
   
  Coming up with a proposol that will guide us to the final project.
 
-*What questions do you have about the syllabus?
+* What questions do you have about the syllabus?
 
  Are we going to be able to present our projects after May 15 individuality or as a group?
  
