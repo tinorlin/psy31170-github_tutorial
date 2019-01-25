@@ -1,8 +1,5 @@
-* What topics in Psychology interest you?
+* What stories do you want to tell?
 
-* What do you hope to get out of this class?
+* Why this class? 
 
-* What are you interested in investigating for the final project?
-
-* Anything you'd like the class to know about you?
-
+* What on the syllabus scares you? 
