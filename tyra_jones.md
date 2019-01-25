@@ -1,4 +1,5 @@
 # Tyra Jones
+## tjones007@citymail.cuny.edu
 
 * Why this class?
 
