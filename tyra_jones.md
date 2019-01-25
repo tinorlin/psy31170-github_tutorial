@@ -10,4 +10,4 @@ I'm new to programming, so words like "numpy, pandas, geopandas, nltk, beautiful
 
 * What stories do you want to tell?
 
-I want to work as a research psychologist to develop a better understanding of Borderline Personality Disorder as it holds a lot of sigma which leads to mental health workers refusing to treat them at times.
+I want to work as a research psychologist to develop a better understanding of Borderline Personality Disorder as it holds a lot of sigma which leads to mental health workers refusing to treat them at times. I want to develop a better understanding behind BPD triggers, emotional regulation, and suicidality, along with its comorbity with Bipolar Disorder, ADHD, and Anxiety.
