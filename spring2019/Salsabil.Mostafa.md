@@ -6,7 +6,7 @@
 | NAC | 7/311|
 
 * why this class? 
- I want to learn programming that will be relevant to me as a Psychology major. I want to be able to apply knowledge learned from this class in real settings such as workplace, research etc. I want to master the content learned in this class.
+     I want to learn programming that will be relevant to me as a Psychology major. I want to be able to apply knowledge learned from this class in real settings such as workplace, research etc. I want to master the content learned in this class.
 
 * what on the syllabus scares you?
      Nothing really, I am just keen to learn something new and useful. I am glad about the fact that we don't have any exams.
